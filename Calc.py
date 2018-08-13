@@ -19,3 +19,11 @@ else:
 
 if result is not None:
     print('Result: ', result)
+
+
+def func():
+    if result == 100:
+        print('Hello World!!!')
+
+
+func()
